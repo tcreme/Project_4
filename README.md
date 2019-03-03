@@ -2,6 +2,14 @@
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
+## Table of Contents
+- [Project](#projectOverview)
+- [Learn](#learn)
+- [Career](#career)
+- [Run Feedreader](#runFeedreader)
+- [Development Strategy](#developmentStrategy)
+- [Contribution](#contribution)
+- [Author](#author)
 
 ## Why this Project?
 
@@ -21,8 +29,11 @@ Writing effective tests requires analyzing multiple aspects of an application in
 
 Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
+## Run Feedreader
 
-# Development Strategy
+Click on the green "Clone or Download" button. To clone the project, select "Open in Desktop". To download the project folder, select "Download ZIP". If the Feedreader project was cloned, to view the project in Atom IDE select repository tab and click "open in Atom". If "Download ZIP" was selected, go to the download location and open the folder using desired IDE. To view and run Feedreader project, open the index file, the file will open up in the browser and the test will be run.
+
+## Development Strategy
 
 For a refresher (or reference) before you begin writing code, we recommend reviewing the content from [JavaScript Testing](https://www.udacity.com/course/javascript-testing--ud549). Your project will be evaluated by a Udacity code reviewer according to the [Feed Reader Testing project rubric](https://review.udacity.com/#!/rubrics/18/view). Please review for detailed project requirements.
 
@@ -69,6 +80,10 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
-# Contributing
+## Contribution
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
+## Author
+
+Tranissa Creme
